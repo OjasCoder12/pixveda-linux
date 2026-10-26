@@ -108,7 +108,7 @@ Verify the integrity of your download:
 - **File:** `PixVeda-Linux-x64.tar.gz`
 - **SHA-256 Checksum:**
   ```text
-  3c7b0bcb8b18809dd5ee50fcd54ebf6bf68782cf3b84fea864c15587d94fb51d
+  3697e7abffb2529c18f64ea5db2782c116a3d3f757aae48cebc85fc7c1984fcb
   ```
 
 ---
